@@ -10,5 +10,5 @@ Inspired by "[A Byte of Python](https://python.swaroopch.com/)" book.
 
 
 ## License ##
-This book is licensed under the [CC BY-SA 3.0 License](https://creativecommons.org/licenses/by-sa/3.0/), the code is licensed under a [BSD 3-Clause License](/LICENSE), unless otherwise specified.
+This book is licensed under the [CC BY-SA 3.0 License](https://creativecommons.org/licenses/by-sa/3.0/), the code is licensed under a [BSD 3-Clause License](LICENSE), unless otherwise specified.
 
