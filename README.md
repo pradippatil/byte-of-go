@@ -6,12 +6,14 @@
 "A Byte of Go" is a free book on programming using the Go language. 
 It intends to serve as an introductory tutorial or guide to the language for newcomers.
 Inspired by "[A Byte of Python](https://python.swaroopch.com/)" book.
+
 ---
 
 ### References
   * [A Tour of Go](https://tour.golang.org)
   * [Effective Go](https://golang.org/doc/effective_go.html)
-  * [The Go Programming Language](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440)  
+  * [The Go Programming Language](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440)
+
 ---
 
 ### License
